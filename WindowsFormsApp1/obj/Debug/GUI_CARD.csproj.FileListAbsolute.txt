@@ -1,0 +1,16 @@
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\GUI_CARD.csproj.AssemblyReference.cache
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\GUI_CARD.csproj.GenerateResource.cache
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\GUI_CARD.csproj.CoreCompileInputs.cache
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\BUS_CARD.dll
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\DAL_CARD.dll
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\BUS_CARD.pdb
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\bin\Debug\DAL_CARD.pdb
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\GUI_CARD.csproj.CopyComplete
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MENUF.resources

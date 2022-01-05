@@ -1,0 +1,5 @@
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Release\GUI_CARD.csproj.AssemblyReference.cache
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Release\WindowsFormsApp1.GUI_User.resources
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Release\GUI_CARD.csproj.GenerateResource.cache
+F:\C#\QuanLyTheCaoDT\WindowsFormsApp1\obj\Release\GUI_CARD.csproj.CoreCompileInputs.cache

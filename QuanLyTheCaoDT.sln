@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_CARD", "WindowsFormsApp1\GUI_CARD.csproj", "{4FB44549-ED23-4E9A-9A9F-C807BF0AE1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_CARD", "BUS_CARD\BUS_CARD.csproj", "{14965329-92F5-450C-B611-FA05D2C00359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_CARD", "DAL_CARD\DAL_CARD.csproj", "{BEA33595-8577-454A-BCC4-977AC22571A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB44549-ED23-4E9A-9A9F-C807BF0AE1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB44549-ED23-4E9A-9A9F-C807BF0AE1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB44549-ED23-4E9A-9A9F-C807BF0AE1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB44549-ED23-4E9A-9A9F-C807BF0AE1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14965329-92F5-450C-B611-FA05D2C00359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14965329-92F5-450C-B611-FA05D2C00359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14965329-92F5-450C-B611-FA05D2C00359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14965329-92F5-450C-B611-FA05D2C00359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA33595-8577-454A-BCC4-977AC22571A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA33595-8577-454A-BCC4-977AC22571A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA33595-8577-454A-BCC4-977AC22571A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA33595-8577-454A-BCC4-977AC22571A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA524CD-48C5-4971-AA51-B057D2341659}
+	EndGlobalSection
+EndGlobal

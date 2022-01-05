@@ -1,0 +1,9 @@
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Debug\BUS_CARD.csproj.CoreCompileInputs.cache
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Debug\BUS_CARD.csproj.AssemblyReference.cache
+F:\C#\QuanLyTheCaoDT\BUS_CARD\bin\Debug\BUS_CARD.dll
+F:\C#\QuanLyTheCaoDT\BUS_CARD\bin\Debug\BUS_CARD.pdb
+F:\C#\QuanLyTheCaoDT\BUS_CARD\bin\Debug\DAL_CARD.dll
+F:\C#\QuanLyTheCaoDT\BUS_CARD\bin\Debug\DAL_CARD.pdb
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Debug\BUS_CARD.csproj.CopyComplete
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Debug\BUS_CARD.dll
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Debug\BUS_CARD.pdb

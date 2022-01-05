@@ -1,0 +1,2 @@
+F:\C#\QuanLyTheCaoDT\DAL_CARD\obj\Release\DAL_CARD.csproj.AssemblyReference.cache
+F:\C#\QuanLyTheCaoDT\DAL_CARD\obj\Release\DAL_CARD.csproj.CoreCompileInputs.cache

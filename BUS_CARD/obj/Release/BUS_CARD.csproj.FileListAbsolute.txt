@@ -1,0 +1,2 @@
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Release\BUS_CARD.csproj.AssemblyReference.cache
+F:\C#\QuanLyTheCaoDT\BUS_CARD\obj\Release\BUS_CARD.csproj.CoreCompileInputs.cache

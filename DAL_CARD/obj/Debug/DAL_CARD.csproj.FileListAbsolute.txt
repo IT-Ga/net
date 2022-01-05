@@ -1,0 +1,6 @@
+F:\C#\QuanLyTheCaoDT\DAL_CARD\bin\Debug\DAL_CARD.dll
+F:\C#\QuanLyTheCaoDT\DAL_CARD\bin\Debug\DAL_CARD.pdb
+F:\C#\QuanLyTheCaoDT\DAL_CARD\obj\Debug\DAL_CARD.csproj.AssemblyReference.cache
+F:\C#\QuanLyTheCaoDT\DAL_CARD\obj\Debug\DAL_CARD.csproj.CoreCompileInputs.cache
+F:\C#\QuanLyTheCaoDT\DAL_CARD\obj\Debug\DAL_CARD.dll
+F:\C#\QuanLyTheCaoDT\DAL_CARD\obj\Debug\DAL_CARD.pdb
